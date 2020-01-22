@@ -5,6 +5,11 @@ Professor: Maya Rose\
 Time: Tuesdays and Thursday, 1:00-3:00\
 Office: 1234
 
+## About me:
+I teach at [The Graduate Center, CUNY](https://www.gc.cuny).\
+I am a PhD student\
+I am a social media fellow
+
 ## Objectives
 1. Learn about the foundations of psych
 2. Psych methods 
@@ -20,7 +25,7 @@ Office: 1234
 **This text will appear bold.**
 
 
-I teach at [The Graduate Center, CUNY](https://www.gc.cuny). 
+
 
 
 
