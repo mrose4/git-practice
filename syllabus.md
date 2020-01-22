@@ -26,6 +26,9 @@ I am a social media fellow
 - Talk about why you are here
 - have you taken pscyh before?
 
+**Research Methods**
+- Research Ethics
+
 
 
 
