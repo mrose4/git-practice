@@ -22,9 +22,9 @@ I am a social media fellow
 
 *Week 1:*
 
-**This text will appear bold.**
-
-
+**Introduce yourselves**
+- Talk about why you are here
+- have you taken pscyh before?
 
 
 
